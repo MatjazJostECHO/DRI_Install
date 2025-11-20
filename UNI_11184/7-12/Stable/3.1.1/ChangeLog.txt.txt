@@ -2,3 +2,7 @@ v3.1.1
 - Added % evaluation for leak test results
 - Updated GitHub downloader logic
 - Added runtime settings support
+- Updated .net verseion to .net10
+
+/*Link*/
+https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.0/windowsdesktop-runtime-10.0.0-win-x64.exe
