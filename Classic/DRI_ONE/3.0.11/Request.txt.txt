@@ -1,0 +1,5 @@
+From: Diego Boscardin
+Sent: Thursday, 20 November 2025 07:58
+Subject: DRI software for 1 channel unit
+
+20220944  1 channel DRI derived from a 6 channel (it is not a single unit, it is a 6 channel with only 1 activated). It has its own old PC with software 1.4.5 for 1 channel only

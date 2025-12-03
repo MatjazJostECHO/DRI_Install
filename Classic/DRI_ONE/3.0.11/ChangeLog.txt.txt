@@ -1,0 +1,8 @@
+v3.1.2
+- Updated online help mail client
+- Updated communication retry logic 
+(some of mfc has invalid buffer config- no roseponse)
+- Updated .net verseion to .net10
+
+/*Link*/
+https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.0/windowsdesktop-runtime-10.0.0-win-x64.exe
