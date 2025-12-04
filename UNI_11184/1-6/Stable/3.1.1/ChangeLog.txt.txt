@@ -1,4 +1,0 @@
-v3.1.1
-- Added % evaluation for leak test results
-- Updated GitHub downloader logic
-- Added runtime settings support
